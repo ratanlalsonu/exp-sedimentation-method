@@ -1,4 +1,4 @@
-### Theory of Sedimentation Method for Particle Size Distribution Determination (Using the Andresen Pipette)
+### Theory of Sedimentation Method for Particle Size Distribution Determination (Using the Andresen Pipette).
 <ul>
 <h4>The sedimentation method for determining particle size and its distribution is based on the settling velocity of particles in a fluid under the influence of gravity. This method is particularly useful for fine particles, which cannot be accurately measured using traditional sieving techniques.</h4>
 <h4>Key Concepts Involved:</h4>
@@ -7,10 +7,6 @@
 of a spherical particle in a fluid is given by:</li>
 <ul></ul>
      <h1> 𝑣 = (d<sup>2</sup>(ρ<sub>p</sub>-ρ<sub>f</sub>)g) / 18𝜇 </h1>
-
-       
-       
-
 Where:
 <li>𝑣
  = Settling velocity of the particle (m/s)</li>
@@ -65,15 +61,4 @@ By measuring the volume of liquid removed from the suspension at different time 
 <li>Using Stokes' Law: By knowing the particle density, fluid viscosity, and fluid density, Stokes' law can be used to compute the particle size for each time interval. The sedimentation time for each sample gives an indication of the particle size at that point.</li>
 
 <li>Cumulative Sediment Volume: A cumulative sediment volume vs. time curve can be plotted, which can then be used to deduce the particle size distribution by relating sedimentation time to particle size. The larger particles will contribute to the initial rapid increase in sediment volume, while smaller particles will only begin to settle after a longer time.</li>
-
-
-
-
-
-
-
-
-
-
-
 </ul>
